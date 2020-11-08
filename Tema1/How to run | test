@@ -1,0 +1,9 @@
+Terminal 1 > make 
+Terminal 1 > ./KM
+Terminal 3 > ./NodeB
+Terminal 2 > ./NodeA
+
+After running the 3 exes, in NodeA (Terminal 2) you will be asked to enter the encryption mode that you want to use: ECB or CFB. 
+Type the wanted one. After that you will be asked what is the path for the file input. Type "plaintext.txt" or use your own file.
+
+That should be it with running the program and testing it. :)
