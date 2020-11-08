@@ -1,3 +1,5 @@
+Libraries: openssl - conf.h, env.h, err.h
+
 Terminal 1 > make 
 Terminal 1 > ./KM
 Terminal 3 > ./NodeB
